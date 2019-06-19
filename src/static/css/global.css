@@ -1,0 +1,19 @@
+/*不太会写，瞎写吧*/
+/* 定位 */
+.fl-right{
+    float: right!important;
+}
+.fl-left{
+    float: left!important;
+}
+.clear{ clear:both} 
+.inline-block{
+    display: inline-block;
+}
+
+
+/* 表格查詢 */
+.grid-panel-btn{
+    width: 150px;
+    letter-spacing: 0.5em;
+}
